@@ -9,8 +9,8 @@
 
 > Tech and Requirements
 
-- <Programming Language>
-- <Framework>
+- TypeScript
+- Node
 - Docker
 - PostgreSQL
 - Redis
