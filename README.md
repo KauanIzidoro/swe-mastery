@@ -9,4 +9,11 @@
 
 > Tech and Requirements
 
-- ...
+- <Programming Language>
+- <Framework>
+- Docker
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Grafana
+- AWS
